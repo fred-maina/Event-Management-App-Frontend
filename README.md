@@ -1,4 +1,9 @@
-## Canvas React Frontend with Vite
+## Event Management Application Frontend with Vite
+
+[Backend Code Repository](https://github.com/fred-maina/Event-Management-App)  
+Here is the backend repository for this application, which powers the API and server-side functionalities. The backend is written in **Java**.
+
+---
 
 This is the frontend for the Event Management Application, built with React, TypeScript, and Vite.
 
